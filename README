@@ -1,0 +1,3 @@
+Avro serialization and deserialization implemented as Injection
+
+see https://github.com/twitter/bijection/
